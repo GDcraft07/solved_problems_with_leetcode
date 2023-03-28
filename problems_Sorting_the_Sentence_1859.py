@@ -10,6 +10,3 @@ class Solution:
                 ans += f'{i[0]} '
 
         return ans
-
-
-print(Solution().sortSentence("is2 sentence4 This1 a3"))
